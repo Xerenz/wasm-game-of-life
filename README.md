@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
@@ -67,3 +68,7 @@ wasm-pack publish
   for logging panic messages to the developer console.
 * [`wee_alloc`](https://github.com/rustwasm/wee_alloc), an allocator optimized
   for small code size.
+=======
+# wasm-game-of-life
+Conway's game of life using Rust and Wasm
+>>>>>>> cc828b81a75bb3b367063db22b4009fc3130cc6c
